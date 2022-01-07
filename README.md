@@ -1,23 +1,17 @@
-𝘗𝘢𝘯-𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺 - D𝘰𝘦𝘴 𝘵𝘩𝘦 𝘌𝘳𝘢𝘴𝘮𝘶𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘵𝘰? 
-Some academics have speculated that former Erasmus students will prove to be a powerful force in creating a pan-European identity. Its possible? 
-# billboard-spotify
+# 𝘗𝘢𝘯-𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺 - D𝘰𝘦𝘴 𝘵𝘩𝘦 𝘌𝘳𝘢𝘴𝘮𝘶𝘴+ 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘵𝘰?
+
+[![License](https://img.shields.io/badge/license-MIT-green)](./https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/LICENSE)
+
 ![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/gif-top-graph2.gif)
 
 ## Resume
-Project developed to scraping billboard top 100 and automate my playlists  
+Project developed to  scraping billboard top 100 and automate my playlists  
 
 ## tools
- - Python, Jupyter Notebook, Panda, BeautifulSoup, spotipy, Tableau  
+ - Python, Jupyter Notebook, Panda, Numpy, Tableau.
 
 ## data source
-- songs list : https://www.billboard.com/charts/year-end  
-- songs features: api-spotify
-
-## scraping
-The information was initially collected on the Billboard website in a category classified as the 100 most successful songs of the year, ranging from 2006 to 2019.  
-In this first step, the name of the song, the artist, the year and the rank were collected.  
-After data collection, the main featurings artist were separated.  
-With the songs and artist names, a conection to spotify was made through the spotipy library. There was possible to search for characteristics of the songs such as Duration, Danceability, Energy and others.  
+- Data sets : https://data.europa.eu
 
 ## playlist
 It was applied a filter of the top 3 song for each year and creating playlist on spotify.  
