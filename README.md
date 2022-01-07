@@ -7,40 +7,59 @@
 ## Resume
 Project developed to analyze the impact of Erasmus+ students (so-called Erasmus Generation) in creating a pan-European identity.
 
+
 ## tools
- - Python, Jupyter Notebook, Panda, Numpy, Tableau.
+ - Python, Jupyter Notebook, Panda, Numpy, Seaborn, Matplot and Tableau.
+
 
 ## data source
-- Data sets : https://data.europa.eu
+- https://data.europa.eu
 
-## playlist
-It was applied some filter of the top 3 song for each year and creating playlist on spotify.  
-https://open.spotify.com/playlist/2rPBxFieJMmRYKcxZeX9JG?si=mLTV0n5qQ7u7CnRzUfKAUA
+
+## data processing
+
+The data in csv format were downloaded and processed in the jupyter terminal, where libraries were imported and Python commands were applied for data cleaning and treatment, creation of DataFrame and other commands that allowed for an exploratory analysis of the data, which allowed to know them in depth, to later do the Data Visualization with Tableau tool. https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/tree/main/Jupyter%20Code
+
 
 ## analysis
-For a overview of data the data collected it was used Tablau as tool.  
-https://public.tableau.com/app/profile/lucio.ferraz/viz/--D/--D
+
+For a overview of data it was used Tableau as tool for Data Visualization. https://public.tableau.com/app/profile/lucio.ferraz/viz/--D/--D
+
 
 - Cover:
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_1.jpg)
 
-- Artists word cloud:
+
+- Erasmus+ in numbers (reference 2014-2019):
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_2.jpg)
 
-- Artists who have appeared more often since 2006, number of features in the musics ranked in billboard, mean of song durations throught the years and danceability, acoustics, energy and speech
+
+- The participants numbers in Erasmus+ programme increases over year, which is why the programme under reformulation and the budget, projects and partner countries increase:
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_3.jpg)
 
-- Rank relations: 
+
+- The participants by gender is a majority female,  however, the men participants also increased. An interesting point to highlight is that participants who declared themselves undefinide also increase, which demonstrates greater tolerance and respect by educational institutions and society:
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_4.jpg)
 
-- Summary graphy of an artist and his relationship with the billboard classification over the years:
+
+- The special needs participants has fluctuated up and down when compared to previous years, however, in global numbers the number of participants has increased:
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_5.jpg)
 
-- Summary graphy of an artist and his relationship with the billboard classification over the years:
+
+- Top 10 most popular countries for mobility. Spain is the European country that receives the most students, followed by Germany and France. Regarding the countries that send the most, the three follow in the ranking, however with change, with Germany being the country that sends the most students to Erasmus+, followed by France and Spain:
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_6.jpg)
 
-- Summary graphy of an artist and his relationship with the billboard classification over the years:
+
+- Word Cloud with total Erasmus+ students received and sent by country:
+
 ![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/Dashboard_7.jpg)
+
 
 ## issues
 Some songs and artists searched through the code were not found, leaving some data incomplete.
