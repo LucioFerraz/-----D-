@@ -2,10 +2,10 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green)](./https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/LICENSE)
 
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/gif-top-graph2.gif)
+![alt text](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme/blob/main/Images/giphy.gif)
 
 ## Resume
-Project developed to  scraping billboard top 100 and automate my playlists  
+Project developed to analyze the impact of Erasmus+ students (so-called Erasmus Generation) in creating a pan-European identity.
 
 ## tools
  - Python, Jupyter Notebook, Panda, Numpy, Tableau.
@@ -14,12 +14,12 @@ Project developed to  scraping billboard top 100 and automate my playlists
 - Data sets : https://data.europa.eu
 
 ## playlist
-It was applied a filter of the top 3 song for each year and creating playlist on spotify.  
+It was applied some filter of the top 3 song for each year and creating playlist on spotify.  
 https://open.spotify.com/playlist/2rPBxFieJMmRYKcxZeX9JG?si=mLTV0n5qQ7u7CnRzUfKAUA
 
 ## analysis
 For a overview of data the data collected it was used Tablau as tool.  
-https://public.tableau.com/profile/guilherme6477#!/vizhome/IRONHACK-PROJETO3/BILLBOARD-SPOTIFY?publish=yes
+https://public.tableau.com/app/profile/lucio.ferraz/viz/--D/--D
 
 - Cover:
 ![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/dashboard1.jpg)
